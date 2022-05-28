@@ -9,7 +9,7 @@ magna viverra rutrum. Cras viverra molestie urna, vitae vestibulum turpis varius
 
 Full paper
 ------------
-Our full paper can be found [here](https://www.soundczech.cz/temp/lorem-ipsum.pdf)
+Our full paper can be found [here](https://github.com/DualDory/DualDory.github.io/blob/main/lorem-ipsum.pdf)
 
 Implementation
 ---------------
