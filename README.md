@@ -9,7 +9,7 @@ magna viverra rutrum. Cras viverra molestie urna, vitae vestibulum turpis varius
 
 Full paper
 ------------
-Our full paper can be found [here](https://github.com/DualDory/DualDory.github.io/blob/main/DualDory-full.pdf)
+Our full paper can be found [here](https://raw.githubusercontent.com/DualDory/DualDory.github.io/main/DualDory-full.pdf)
 
 Implementation
 ---------------
